@@ -4,7 +4,6 @@ This repository contains the projects and assignments completed as part of the D
 The projects span various topics related with DM/ML, including language processing, regression, classification and neural networks.
 
 ## Contents
-
 - WordCount
 - Regression
 - Classification
