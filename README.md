@@ -1,4 +1,4 @@
-# Data Mining Course - Wrocław University of Science and Technology
+# Data Mining
 
 This repository contains the projects and assignments completed as part of the Data Mining course at the Wrocław University of Science and Technology. 
 The projects span various topics related with DM/ML, including language processing, regression, classification and neural networks.
